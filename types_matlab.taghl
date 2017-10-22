@@ -1,0 +1,2 @@
+syn keyword CTagsFunction CHECK_FILE_EXIST store2hdf5 set_mode_gpu set_device version run_tests classification_demo get_net get_solver set_mode_cpu prepare_image reset_all CHECK is_valid_handle
+
